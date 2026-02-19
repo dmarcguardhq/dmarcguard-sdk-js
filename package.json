@@ -1,0 +1,17 @@
+{
+  "name": "dmarcguard",
+  "version": "0.0.1",
+  "description": "Official DmarcGuard SDK for JavaScript — this package reserves the dmarcguard name on npm.",
+  "main": "index.js",
+  "license": "Apache-2.0",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/dmarcguardhq/dmarcguard-sdk-js.git"
+  },
+  "homepage": "https://github.com/dmarcguardhq/dmarcguard-sdk-js",
+  "keywords": [
+    "dmarcguard",
+    "dmarc",
+    "email-security"
+  ]
+}
