@@ -1,17 +1,44 @@
 {
   "name": "dmarcguard",
   "version": "0.0.1",
-  "description": "Official DmarcGuard SDK for JavaScript — this package reserves the dmarcguard name on npm.",
+  "description": "Official DmarcGuard SDK for JavaScript — DMARC, SPF, DKIM, and BIMI monitoring for your domains. Learn more at https://dmarcguard.io",
   "main": "index.js",
   "license": "Apache-2.0",
+  "author": {
+    "name": "DmarcGuard",
+    "url": "https://dmarcguard.io"
+  },
+  "homepage": "https://dmarcguard.io",
   "repository": {
     "type": "git",
-    "url": "https://github.com/dmarcguardhq/dmarcguard-sdk-js.git"
+    "url": "git+https://github.com/dmarcguardhq/dmarcguard-sdk-js.git"
   },
-  "homepage": "https://github.com/dmarcguardhq/dmarcguard-sdk-js",
+  "bugs": {
+    "url": "https://github.com/dmarcguardhq/dmarcguard-sdk-js/issues"
+  },
+  "engines": {
+    "node": ">=20"
+  },
+  "files": [
+    "index.js",
+    "LICENSE",
+    "README.md"
+  ],
   "keywords": [
     "dmarcguard",
     "dmarc",
-    "email-security"
-  ]
+    "dkim",
+    "spf",
+    "bimi",
+    "email",
+    "email-security",
+    "email-authentication",
+    "deliverability",
+    "phishing",
+    "spoofing"
+  ],
+  "publishConfig": {
+    "access": "public",
+    "provenance": true
+  }
 }
