@@ -1,11 +1,11 @@
 {
   "name": "dmarcguard",
   "version": "0.0.1",
-  "description": "Official DmarcGuard SDK for JavaScript — DMARC, SPF, DKIM, and BIMI monitoring for your domains. Learn more at https://dmarcguard.io",
+  "description": "Official DMARCguard SDK for JavaScript — DMARC, SPF, DKIM, and BIMI monitoring for your domains. Learn more at https://dmarcguard.io",
   "main": "index.js",
   "license": "Apache-2.0",
   "author": {
-    "name": "DmarcGuard",
+    "name": "DMARCguard",
     "url": "https://dmarcguard.io"
   },
   "homepage": "https://dmarcguard.io",

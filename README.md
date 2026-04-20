@@ -1,13 +1,13 @@
 # dmarcguard
 
-Official [DmarcGuard](https://dmarcguard.io) SDK for JavaScript.
+Official [DMARCguard](https://dmarcguard.io) SDK for JavaScript.
 
 > This package currently reserves the `dmarcguard` name on npm while the SDK is in development.
-> Visit **[dmarcguard.io](https://dmarcguard.io)** for the DmarcGuard email authentication platform.
+> Visit **[dmarcguard.io](https://dmarcguard.io)** for the DMARCguard email authentication platform.
 
-## About DmarcGuard
+## About DMARCguard
 
-[DmarcGuard](https://dmarcguard.io) helps organizations protect their domains from phishing, spoofing, and impersonation with:
+[DMARCguard](https://dmarcguard.io) helps organizations protect their domains from phishing, spoofing, and impersonation with:
 
 - DMARC, SPF, DKIM, and BIMI monitoring
 - Aggregate (RUA) and forensic (RUF) report aggregation
@@ -30,4 +30,4 @@ npm install dmarcguard
 
 ## License
 
-Apache-2.0 &copy; [DmarcGuard](https://dmarcguard.io)
+Apache-2.0 &copy; [DMARCguard](https://dmarcguard.io)
